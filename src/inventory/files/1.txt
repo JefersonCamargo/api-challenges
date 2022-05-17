@@ -1,0 +1,6 @@
+5
+add Shirt
+add Trouser
+getList
+remove Shirt
+getList
