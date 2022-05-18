@@ -1,0 +1,10 @@
+9
+add Shirt
+add Trouser
+add Jacket
+getList
+add Dress
+remove Shirt
+getList
+add Scarf
+getList
